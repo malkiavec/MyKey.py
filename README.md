@@ -8,12 +8,10 @@ A simple Streamlit app showing the GDP of different countries in the world.
 
 1. Install the requirements
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+   ```!pip install streamlit pyngrok xgboost tensorflow matplotlib seaborn networkx pandas numpy
 
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run streamlit_MyKey.py
    ```
