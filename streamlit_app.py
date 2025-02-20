@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -116,5 +115,4 @@ for draw in filtered_draws:
 sns.heatmap(transition_matrix, cmap="coolwarm", linewidths=0.5)
 st.pyplot(plt)
 
-st.write("Mutation optimization completed!")
-```                                                                                                                                                        st.write("Mutation optimization completed!")
+st.write("Mutation optimization completed!")                                                                                                                                                st.write("Mutation optimization completed!")
