@@ -4,6 +4,6 @@ xgboost
 tensorflow
 numpy
 pandas
-matplotli
-b seaborn networkx
+matplotlib 
+seaborn networkx
 scikit-leae 
