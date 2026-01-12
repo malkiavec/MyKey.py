@@ -1,1 +1,2 @@
 pip install streamlit xgboost tensorflow numpy pandas matplotlib seaborn networkx
+scikit-leae 
