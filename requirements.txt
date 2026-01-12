@@ -1,9 +1,10 @@
-pip install 
+pipinstall 
 streamlit 
 xgboost 
 tensorflow
 numpy
 pandas
 matplotlib 
-seaborn networkx
+seaborn 
+networkx
 scikit-leae 
